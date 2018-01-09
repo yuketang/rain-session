@@ -1,0 +1,10 @@
+node_modules
+example
+.DS_Store
+coverage
+.idea
+1*
+*important*
+*ultimate*
+/1.js
+logs/*log*
